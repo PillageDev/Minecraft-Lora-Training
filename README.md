@@ -88,3 +88,19 @@ Echoing Depths (MIT)
 malcolmriley (Creative Commons Attribution 4.0 International)
 
 If I have made any mistakes regarding the licensing of these mods, please let me know.
+
+# Mac Compatibility
+This project is now compatible with m-series chips of a MacBook. Follow the instructions below to set up and run the project on a Mac.
+
+## Instructions
+1. Ensure you have Python 3.9 installed on your Mac.
+2. Clone the repository to your local machine.
+3. Navigate to the project directory in your terminal.
+4. Run the `launch_mac.sh` script to set up the environment and launch the project.
+
+```bash
+./scripts/launch_mac.sh
+```
+
+This script will set up the environment and run the project using the appropriate configurations for Mac.
+
